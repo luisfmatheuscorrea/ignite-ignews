@@ -2032,10 +2032,10 @@ strip-ansi@^3.0.0:
   dependencies:
     ansi-regex "^2.0.0"
 
-stripe@^8.139.0:
-  version "8.139.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.139.0.tgz#f9823f973993c5e172fca0100865456604735aee"
-  integrity sha512-3Lggs0mgy8gPzIDvLGYmx5ghQuTu+nvSUBCv9Di4FekvJ5iP7nenlrOk7A4cidF1nokamKm/bCIRYxIeDv5xYQ==
+stripe@^8.142.0:
+  version "8.142.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.142.0.tgz#8a55e92837ea5c8bc4f65754df01c004a2beebed"
+  integrity sha512-0CimG7f5lsqD+qf+Vv8QgBPuYT0hqn/gfXBNEdeQxIIA+WUrxqXEyS5C0r5YIxa/Et5WiByfCpXJdMsxh4G35Q==
   dependencies:
     "@types/node" ">=8.1.0"
     qs "^6.6.0"
